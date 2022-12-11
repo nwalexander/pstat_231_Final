@@ -1,0 +1,15 @@
+log_price: natural log of listed price
+property_type: house, apt, boat, etc
+room_type: whole house or bedroom 
+amenities: list of amenities
+accommodates: maximum guests allowed
+bathrooms: bathrooms in unit
+bed_type: type of bed
+cancellation_policy: strict or lenient
+cleaning_fee: boolean
+city: Major city name
+instant_bookable: boolean
+neighbourhood: district of city
+zipcode: zip code of listing
+bedrooms: total bedrooms
+beds: total bed spaces 
